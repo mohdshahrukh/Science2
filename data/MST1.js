@@ -4,7 +4,7 @@ var data= {
     "-CategoryName": "Science - 2",
     "Chapter": [
       {
-        "-ChapterName": "Domestic Animals Domestic Animals",
+        "-ChapterName": "Domestic Animals",
         "-Heading": "Multiple Choice Questions",
         "Cluster": [
           
@@ -334,7 +334,7 @@ var data= {
         ]    //chapter3 compelete
       },
        {
-        "-ChapterName": "Kinds of Plants Kinds of Plants",
+        "-ChapterName": "Kinds of Plants",
         "-Heading": "Multiple Choice Questions",
         "Cluster": [
           
@@ -450,7 +450,7 @@ var data= {
         ]    //chapter4 compelete
       },
        {
-        "-ChapterName": "Parts of a Plant Parts of a Plant",
+        "-ChapterName": "Parts of a Plant",
         "-Heading": "Multiple Choice Questions",
         "Cluster": [
           
@@ -563,7 +563,7 @@ var data= {
         ]    //chapter5 compelete
       },
        {
-        "-ChapterName": " Uses of Plants Uses of Plants",
+        "-ChapterName": " Uses of Plants",
         "-Heading": "Multiple Choice Questions",
         "Cluster": [
           {
@@ -680,7 +680,7 @@ var data= {
         ]    //chapter6 
       },
        {
-        "-ChapterName": "Our Body, Exercise and Posture Our Body, Exercise and Posture",
+        "-ChapterName": "Our Body, Exercise and Posture",
         "-Heading": "Multiple Choice Questions",
         "Cluster": [
            
@@ -798,7 +798,7 @@ var data= {
         ]    //chapter7 compelete
       },
        {
-        "-ChapterName": " Eating Healthy Eating Healthy",
+        "-ChapterName": " Eating Healthy",
         "-Heading": "Multiple Choice Questions",
         "Cluster": [
           
@@ -878,7 +878,7 @@ var data= {
             "-defaultMark": "1",
             "item": [
               {
-                "-Question": "1.\tGood food keeps us                   \t\t\t\t  (a)\thelp to get rid off constipation "
+                "-Question": "1.\tGood food keeps us                   \t\t\t\t\t  (a)\thelp to get rid off constipation "
               },
               {
                 "-Question": "2.\tFood increases resistance power against  \t\t  (b)\thealthy "
@@ -890,7 +890,7 @@ var data= {
                 "-Question": "4.\tFood gives us energy to              \t\t\t\t  (d)\tproper time "
               },
               {
-                "-Question": "5.\tRoughage                             \t\t\t\t\t  (e)\twork and play"
+                "-Question": "5.\tRoughage                             \t\t\t\t\t\t  (e)\twork and play"
               }
             ]
           },
@@ -920,7 +920,7 @@ var data= {
         ]    //chapter8 compelete
       },
        {
-        "-ChapterName": " Air Around Us Air Around Us",
+        "-ChapterName": " Air Around Us",
         "-Heading": "Multiple Choice Questions",
         "Cluster": [
           
@@ -1036,7 +1036,7 @@ var data= {
         ]    //chapter9 compelete
       },
        {
-        "-ChapterName": " Polluted and clean Air Polluted and clean Air",
+        "-ChapterName": " Polluted and clean Air ",
         "-Heading": "Multiple Choice Questions",
         "Cluster": [
           
@@ -1228,7 +1228,7 @@ var data= {
                 "-Question": "1.\tStorms can damage   \t\t\t\t  (a)\tis called breeze "
               },
               {
-                "-Question": "2.\tSlow moving air   \t\t\t\t  (b)\tbuildings and towers "
+                "-Question": "2.\tSlow moving air   \t\t\t\t\t  (b)\tbuildings and towers "
               },
               {
                 "-Question": "3.\tWindmill      \t\t\t\t\t\t  (c)\ttells the direction of wind "
@@ -1374,7 +1374,7 @@ var data= {
         ]    //chapter12 compelete
       },
        {
-        "-ChapterName": " Forms of Water Forms of Water",
+        "-ChapterName": " Forms of Water",
         "-Heading": "Multiple Choice Questions",
         "Cluster": [
           
@@ -1493,7 +1493,7 @@ var data= {
         ]    //chapter13 compelete
       },
        {
-        "-ChapterName": " Rocks, Soil and Minerals Rocks, Soil and Minerals",
+        "-ChapterName": " Rocks, Soil and Minerals ",
         "-Heading": "Multiple Choice Questions",
         "Cluster": [
           
@@ -1704,7 +1704,7 @@ var data= {
                 "-Question": "5.\tBrick     \t\t\t\t\t  (e)\tatleast 8 glasses of water everyday."
               },
               {
-                "-Question": "6.\tGlass     \t\t\t\t\t  (e)\tatleast 8 glasses of water everyday."
+                "-Question": "6.\tGlass     \t\t\t\t\t  (f)\tatleast 8 glasses of water everyday."
               }
             ]
           },
